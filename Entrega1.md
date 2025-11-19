@@ -8,7 +8,7 @@
 
 #### 1.2 Código
 
------
+1111111
 
 #### 1.3 Versão do documento e histórico de revisão
 
@@ -30,7 +30,9 @@ Pedro Henrique Dias Camara
 
 #### 1.7 Projeto relacionado
 
------
+CURRIE, Wendy; LEIMEISTER, Jan; WILLCOCKS, Leslie. Rethinking technology regulation in the age of AI risks. Journal of Information Technology, 23 Set. 2025. Disponível em: https://journals.sagepub.com/doi/full/10.1177/02683962251378815. Acesso em 19 de Nov. de 2025
+
+JACOBIDES, Michael. Regulating Big Tech in Europe: Why, so What, and How Understanding Their Business Models and Ecosystems Can Make a Difference. London Business School, 21 Dec. 2020. Dispoível em https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3765324. Acesso em 19 de Nov. de 2025
 
 ### 2. Contexto e problema
 
@@ -44,8 +46,11 @@ O presente trabalho utiliza dados extraidos do site Congress.gov e EU Legislator
 
 #### 2.3 Trabalhos e evidências prévias
 
------
+CURRIE, Wendy; LEIMEISTER, Jan; WILLCOCKS, Leslie. Rethinking technology regulation in the age of AI risks. Journal of Information Technology, 23 Set. 2025. Disponível em: https://journals.sagepub.com/doi/full/10.1177/02683962251378815. Acesso em 19 de Nov. de 2025
+
+JACOBIDES, Michael. Regulating Big Tech in Europe: Why, so What, and How Understanding Their Business Models and Ecosystems Can Make a Difference. London Business School, 21 Dec. 2020. Dispoível em https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3765324. Acesso em 19 de Nov. de 2025
 
 #### 2.4 Referêncial teórico
 
------
+O presente trabalho basea no conceito de regulação, aqui apresentado como um conjunto de técnicas e ações que garantem conformidade à um processo, no presente contexto, se baseando na lei. Essa é medida por meios de projetos de lei e propostas cujo escopo inclui lidar com questões de Big Tech, Data Privacy e outros termpos semenhantes. 
+Além disso, o trabalho explora a saúde de startups, esse é trabalhado como a longevidade e rendimento de empresas de pequeno porte dentro do escopo dado. 
