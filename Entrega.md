@@ -334,3 +334,137 @@ Dados que seam demaziadamente da norma são excluidos do calculo de correlação
 
 N/A
 
+### 13 Avaliação de validade 
+
+#### 13.1 Validade de conclusão
+
+A principal ameaça para a robustez das conclusões aqui apresentadas é a velocidade em que a legislação estudada entra em efeito. Para mitigar esse risco, o estudo tem um largo escopo de tempo, visando possibilitar a variação mesmo após o tempo de adotação da nova legislação.  
+
+#### 13.2 Validade interna
+
+
+
+#### 13.3 Validade de constructo
+
+As medidas escolhidas são relevantes para o presente estudo, de forma que garante a clareza da interpretação dos resultados. 
+
+#### 13.4 Validade externa
+
+Os resultados aqui encontrados podem ser generalizados para outros escopos, como diferentes países e períodos. 
+
+#### 13.5 Resumo das principais ameaças e estratégias de mitigação 
+
+
+
+### 14 Ética, privacidade e conformidade
+
+#### 14.1 Questões éticas
+
+Não há questões éticas relevantes para o impedimento do presente trabalho.
+
+#### 14.2 Consentimento informado 
+
+N/A
+
+#### 14.3 Privacidade e proteção de dados
+
+Os dados aqui coletados são acessíveis publicamente. 
+
+#### 14.4 Aprovações necessárias 
+
+Não há aprovações necessárias para a execussão do presente trabalho. 
+
+### 15 Recursos, infraestrutura e orçamento 
+
+#### 15.1 Recursos humanos e papéis
+
+A equipe do estudo é composta apénas pelo pesquisador.
+
+#### 15.2 Infraestrutura técnica necessária
+
+A infraestrutura técnica necessária é composta de um computador capaz de conexão com a internet, assim como capacidade de rodar programas de planilha e coleta de dados web. 
+
+#### 15.3 Materiais e insumos
+
+Os materiais fisícos e digitais necessários foram voluntariados pelo pesquisador. Assim, estão todos prontos para o estudo.
+
+#### 15.4 Orçamento e custos estimados
+
+O presente trabalho, por ser um projeto de TCC, não consta com um orçamento. 
+
+### 16 Cronograma, marcos e riscos operacionais
+
+#### 16.1 Macrocronograma
+
+Início do trabalho: Preparação dos materiais 
+
+Semana 1 e 2: Coleta de dados 
+
+Semana 3 e 4: Pradronização de dados coletados
+
+Semana 5 e 6: Calculo de correlação entre os dados apresentados
+
+Semana 7: Consolidação dos dados
+
+Semana 8 a 12: Elaboração do relatório com o resultado do estudo
+
+#### 16.2 Dependências entre atividades
+
+Todas as atividades são dependentes da atividade anterior, com exclusão da elaboração do relatório, que pode começar antes, mas depende das outras atividades para ser concluido. 
+
+#### 16.3 Riscos operacionais e plano de contingência
+
+O maior risco operacional é a disponibilidade dos sites em que os dados são coletados, nesse caso, outras fontes de informação são consideradas. 
+
+### 17 Governança do experimento 
+
+#### 17.1 Papéis e responsábilidades formais
+
+O pesquisador é o único responsável pelo estudo. 
+
+#### 17.2 Ritos de acompanhamento pré-execução
+
+N/A
+
+#### 17.3 Processo de controle de mudanças no plano
+
+Mudanças no escopo do trabalho são tratados pelo pesquisador e documentadas no relatório final, assim como seus motivos. 
+
+### Plano de documentação e reprodutibilidade
+
+#### 18.1 Repositórios e convenções de nomeação
+
+Os dados do trabalho são armazenados no presente repostitório git: https://github.com/Pwyll38/Trabalho-Final--Proposta-de-Experimento-para-TCC.git
+
+#### 18.2 Templates e artefatos padrão
+
+Não há modelos para o presente trabalho
+
+#### 18.3 Plano de empacotamento para replicação futura
+
+A metodologia do presente trabalho é detalhada no relatório final, descrevendo como replicar o experimento, assim como as ferramentas de coleta de dados. 
+
+### 19 Plano de comunicação 
+
+#### 19.1 Públicos e mensagens-chave pré-execução
+
+N/A
+
+#### 19.2 Canais e frequências de comunicação
+
+N/A
+
+#### 19.3 Pontos de comunicação obrigatórios
+
+N/A
+
+### 20 Critérios de prontidão para execução
+
+#### 20.1 Checklist de prontidão
+
+O presente trabalho pode ser elaborado assim que os materiais estão prontos, sem necessidade de itens completos
+
+#### 20.2 Aprovações finais para iniciar a operação
+
+O presente trabalho pode ser elaborado assim que os materiais estão prontos, sem necessidade de aprovação externa
+
