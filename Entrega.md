@@ -314,6 +314,10 @@ N/A
 
 ### 12 Plano de análise de dados
 
+#### Fluxograma do plano do estudo 
+
+[![Fluxograma](Diagram.drawio.png)]
+
 #### 12.1 Estratégia geral de análise
 
 Para responder as perguntas aqui levantadas, a quantidade de legislações mencionando as palavras chave de software são comparadas com a saúde média das startups, calculado de acordo com sua longevidade e rendimento. Em seguida, é feito a correlação entre esses dados para verificar se há uma relação entre os dois. 
