@@ -1,4 +1,4 @@
-## Planejamento do experimento 
+## Planejamento do experimento
 
 ### 1. Identificação básica
 
@@ -24,9 +24,9 @@ Versão 1.0 - Dados iniciais da identificação básica, contexto e problema
 
 Pedro Henrique Dias Camara - Pesquisador - Aramacsaid@gmail.com
 
-#### 1.6 Responsável principal 
+#### 1.6 Responsável principal
 
-Pedro Henrique Dias Camara 
+Pedro Henrique Dias Camara
 
 #### 1.7 Projeto relacionado
 
@@ -42,7 +42,7 @@ O tema de regulação de empresas de tecnologia está em constante debate. Defen
 
 #### 2.2 Contexto técnico
 
-O presente trabalho utiliza dados extraidos do site Congress.gov e EU Legislatory Observatory para medir interesse e adotação de medidas regulatórias. Adicionalmente, a saúde de startups será medida em sua longevidade e rendimento durante o período estudado. Para a coleta desses dados, será desenvolvido um programa web scrapper. 
+O presente trabalho utiliza dados extraidos do site Congress.gov e EU Legislatory Observatory para medir interesse e adotação de medidas regulatórias. Adicionalmente, a saúde de startups será medida em sua longevidade e rendimento durante o período estudado. Para a coleta desses dados, será desenvolvido um programa web scrapper.
 
 #### 2.3 Trabalhos e evidências prévias
 
@@ -52,20 +52,20 @@ JACOBIDES, Michael. Regulating Big Tech in Europe: Why, so What, and How Underst
 
 #### 2.4 Referêncial teórico
 
-O presente trabalho basea no conceito de regulação, aqui apresentado como um conjunto de técnicas e ações que garantem conformidade à um processo, no presente contexto, se baseando na lei. Essa é medida por meios de projetos de lei e propostas cujo escopo inclui lidar com questões de Big Tech, Data Privacy e outros termpos semenhantes. 
-Além disso, o trabalho explora a saúde de startups, esse é trabalhado como a longevidade e rendimento de empresas de pequeno porte dentro do escopo dado. 
+O presente trabalho basea no conceito de regulação, aqui apresentado como um conjunto de técnicas e ações que garantem conformidade à um processo, no presente contexto, se baseando na lei. Essa é medida por meios de projetos de lei e propostas cujo escopo inclui lidar com questões de Big Tech, Data Privacy e outros termpos semenhantes.
+Além disso, o trabalho explora a saúde de startups, esse é trabalhado como a longevidade e rendimento de empresas de pequeno porte dentro do escopo dado.
 
-### 3. Objetivos e questões 
+### 3. Objetivos e questões
 
 #### 3.1 Objetivo geral
 
-O presente trabalho busca analisar o efeito de regulação sobre empresas de tech na saúde de startups de tecnologia. 
+O presente trabalho busca analisar o efeito de regulação sobre empresas de tech na saúde de startups de tecnologia.
 
 #### 3.2 Objetivos específicos
 
 O1 Compreender o volume de regulação sendo adotada nos contextos estudados
 
-O2 Quantificar nível de regulação em um dado período de tempo 
+O2 Quantificar nível de regulação em um dado período de tempo
 
 O3 Quantificar a saúde de startups durante o perído de tempo estuado
 
@@ -87,7 +87,7 @@ Q5 Quantos projetos de lei sobre software foram propostos pelas intituições es
 
 Q6 Quanta discussão houve sobre essa regulação?
 
-O3: 
+O3:
 
 Q7: Como o rendimento de startups evoluiu durente o período estudado?
 
@@ -95,7 +95,7 @@ Q8: Como a longevidade de startups evoluiu durente o período estudado?
 
 Q9: As startups no contexto estudado tiveram seu funcionamento limitado pela regulação?
 
-#### 3.4 Métricas associadas: 
+#### 3.4 Métricas associadas:
 
 Q1:
 
@@ -103,66 +103,66 @@ M1: Número de resultados nas páginas de cada instituição legislatória quand
 
 M2: Porcentagem de resultados em um perído de tempo nas páginas de cada instituição legislatória que se referem à keywords relacionadas à Big Tech
 
-Q2: 
+Q2:
 
 M3: Número de resultados nas páginas de cada instituição legislatória quando pesquisando keywords relacionadas à Big Tech em função do tempo
 
 M4: Frequência de novos resultados nas páginas de cada instituição legislatória quando pesquisando keywords relacionadas à Big Tech
 
-Q3: 
+Q3:
 
 M5: Mudanças nas keywords utilizadas para cada reultado nos sites de cada instituição legislatória
 
 M6: Mudança de apoio para cada projeto de regulação em cada instituição legislatória
 
-Q4: 
+Q4:
 
-M7: Número de resultados nos sites de cada instituição legislatória que se referem à keywords relacioanadas à empresas de tecnologia 
+M7: Número de resultados nos sites de cada instituição legislatória que se referem à keywords relacioanadas à empresas de tecnologia
 
-M8: Número de projetos de lei e regulação aprovados 
+M8: Número de projetos de lei e regulação aprovados
 
-Q5: 
+Q5:
 
 M9: Número de propostas de projetos de regulação à empresas de software
 
 M10: Número de discussões sobre projetos de lei que mencionam regulação de software
 
-Q6: 
+Q6:
 
 M11: Número de revisões feitas na regulação
 
 M12: Número de notícias publicadas se referendo à cada projeto de regulação
 
-Q7: 
+Q7:
 
 M13: Lucro de cada startup em um dado período de tempo
 
 M14: Rendimento de startups em um dado período de tempo
 
-Q8: 
+Q8:
 
 M15: Porcentagem de  startups ainda está em funcionamento
 
 M16: Idade que startups que não estão em funcionamento quando pararam suas atividades
 
-Q9: 
+Q9:
 
 M17: Discursos de empresários sobre as regulações
 
 M18: Mudanças de estratégias de empresas depois das regulações
 
-### 4. Escopo e contexto do experimento 
+### 4. Escopo e contexto do experimento
 
-#### 4.1 Escopo funcional 
+#### 4.1 Escopo funcional
 
-O presente trabalho engloba um estudo da legislação regendo empresas de tecnologia e sua relação com a saúde de startups. Assim, utiliza os sites de congress.gov e legislatory observatory EU. Por esse motivo, o escopo desse trabalho será países da União Européia e Estados Unidos. Adicionalmente, o período estudado será de 2010 à 2020. 
+O presente trabalho engloba um estudo da legislação regendo empresas de tecnologia e sua relação com a saúde de startups. Assim, utiliza os sites de congress.gov e legislatory observatory EU. Por esse motivo, o escopo desse trabalho será países da União Européia e Estados Unidos. Adicionalmente, o período estudado será de 2010 à 2020.
 Entre as questões que não são trabalhadas nesse trabalho estão a política de origem dessa regulação, uma análise do benefício das startups para sociedade, e uma análise de regulação e empresas de outros setores que não software.
 
 #### 4.2 Contexto do estudo
 
-O contexto do estudo são startups de desenvolvimento de software nos países da União Européia e Estados Unidos no período de 2010 à 2020. 
+O contexto do estudo são startups de desenvolvimento de software nos países da União Européia e Estados Unidos no período de 2010 à 2020.
 
-#### 4.3 Premissas 
+#### 4.3 Premissas
 
 As premissas esperadas são o funcionamento dos sites listados para a coleta de dados, a disponibilidade de dados sobre as statups e boa documentação sobre as discussões sobre a regulação
 
@@ -172,7 +172,7 @@ As restrições sobre o presente estudo são o curto tempo de pesquisa e a falta
 
 #### 4.5 Limitações previstas
 
-Uma limitação prevista para o resultado do presente estudo são outros possíveis fatores que levam à regulação de empresas de tecnologias. Além disso, a influência que empresas grandes de tecnologia tem sobre a adoção de novas regulaçãoes, como por meio de lobbying. 
+Uma limitação prevista para o resultado do presente estudo são outros possíveis fatores que levam à regulação de empresas de tecnologias. Além disso, a influência que empresas grandes de tecnologia tem sobre a adoção de novas regulaçãoes, como por meio de lobbying.
 
 ### 5 Stakeholders e impacto esperado
 
@@ -182,17 +182,17 @@ Os principais stakeholders do presente projeto são empresários no ramo de enge
 
 #### 5.2 Interesse e expectativas de stakeholders
 
-Empresários de empresas de tecnologias podem ter uma melhor idea de como a legislação afeta sua empresa, assim como suas estratégias de empreendedorismo. Adicionalmente, legisladores podem ter uma melhor idea do efeito de novos projetos de regulação. 
+Empresários de empresas de tecnologias podem ter uma melhor idea de como a legislação afeta sua empresa, assim como suas estratégias de empreendedorismo. Adicionalmente, legisladores podem ter uma melhor idea do efeito de novos projetos de regulação.
 
 #### 5.3 Impactos potenciais no processo
 
-Como mencionado acima, o trabalho pode instruir legisladores e empresários de tecnologia em como entender regulaçãoes. 
+Como mencionado acima, o trabalho pode instruir legisladores e empresários de tecnologia em como entender regulaçãoes.
 
 ### 6 Riscos de alto nível, premissas e critérios de sucesso
 
 #### 6.1 Riscos de alto nível
 
-Os maiores riscos para o presente trabalho são a disponíbilidade de dados sobre a regulação de software e empresas de startup. Além disso, a facilidade da coleta e padronização desses dados. 
+Os maiores riscos para o presente trabalho são a disponíbilidade de dados sobre a regulação de software e empresas de startup. Além disso, a facilidade da coleta e padronização desses dados.
 
 #### 6.2 Critérios de sucesso globais
 
@@ -200,4 +200,71 @@ O presente trabalho é considerado útil e viável se há disponíbilidade e tra
 
 #### 6.3 Critérios de parada antecipada
 
-O presente trabalho pode ser adiado ou cancelado se os sites mencionados acima não estiverem disponíveis. 
+O presente trabalho pode ser adiado ou cancelado se os sites mencionados acima não estiverem disponíveis.
+
+### 7. Modelo conceitual e hipóteses
+
+#### 7.1 Modelo conceitual do experimento 
+
+Se espera que o nível de regulação não tenha um afeto negativo na saúde de startups, como comummente esperado, mas sim que as regulações levem à um mercado mais saudável para as empresas e para os consumidores.
+
+#### 7.2 Hipóteses formais
+
+H0: O aumento no nível de regulação não pode ser relacionado à uma queda na saúde de startups
+
+H1: O nível de regulações leva à maior longevidade das startups
+
+#### 7.3 Nível de significância e considerações de poder
+
+α = 0,05
+
+Se espera que não há uma forte relação ou que a relação seja positiva entre a regulação e a saúde das startups.
+
+### 8. Variáveis, fatores, tratamentos e objetos de estudo 
+
+#### 8.1 Objetos de estudo
+
+Os objetos do estudo serão os dados relacionados à saúde de startups e a regulação sobre empresas de software, como coletado nos sites dos corpos legislativos. 
+
+#### 8.2 Sujeitos / participantes
+
+Não há sujeitos/participantes
+
+#### 8.3 Variáveis independentes
+
+A variável independente é o nível de regulação no escopo estudado. 
+
+#### 8.4 Tratamentos
+
+
+
+#### 8.5 Variàveis dependentes
+
+A variável dependente é a saúde de startups de desenvolvimento  de software.
+
+#### 8.6 Variáveis de controle
+
+Não há variáveis de controle no estudo. 
+
+#### 8.7 Possíveis variáveis de confusão conhecidas
+
+Alguns fatores que podem distorcer os resultados são mudanças de liderança nos países estudados, assim como variações ecônomicas durante o periodo estudado. 
+
+### 9. Desenho experimental
+
+#### 9.1 Tipo de desenho
+
+N/A
+
+#### 9.2 Randomização e alocaçõa
+
+N/A
+
+#### 9.3 Balanceamento e contrabalanço
+
+N/A
+
+#### 9.4 Número de grupos e sessões
+
+N/A
+
