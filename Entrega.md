@@ -268,3 +268,65 @@ N/A
 
 N/A
 
+### 10 Populações, sujeitos e amostragem
+
+#### 10.1 População-alvo
+
+A população-alvo do estudo são starups dos países do escopo do trabalho, durante o período de tempo do escopo do trabalho
+
+#### 10.2 Critérios de inclusão de sujeitos
+
+Startups serão incluidas se se encaixam no escopo descrito.
+
+#### 10.3 Critérios de exclusão de sujeitos
+
+Sujeitos são excluidos se não são startups (são empresas de grande porte), ou se seu escopo não inclui o desenvolvimento de software.
+
+#### 10.4 Tamanho da amostra
+
+O tamanho da amostra são 100 startups.
+
+#### 10.5 Métodos de seleção
+
+As startups são escolhidas de acrodo com a disponibilidade de dados e transparência de suas operações. 
+
+#### 10.6 Treinamento e preparação de sujeitos
+
+N/A
+
+### 11. Instrumentação e protocolo operacional 
+
+#### 11.1 Instrumentos de coleta
+
+O instrumento de coleta é um web scrapper, que coleta os dados dos sites dos corpos legislativos relevantes, assim como a coleta manual de dados sobre as startups.
+
+#### 11.2 Materiais de suporte
+
+Planilhas são utilizadas para padronizar e comparar os dados. 
+
+#### 11.3 Procedimento experimental
+
+A coleta de dados será feita de acordo com a ferramenta web scapper, em seguida, os dados das startups são coletados manualmente. Assim coletados, os dados serão padronizados e comparados em uma planilha. 
+
+#### 11.4 Plano de piloto 
+
+N/A
+
+### 12 Plano de análise de dados
+
+#### 12.1 Estratégia geral de análise
+
+Para responder as perguntas aqui levantadas, a quantidade de legislações mencionando as palavras chave de software são comparadas com a saúde média das startups, calculado de acordo com sua longevidade e rendimento. Em seguida, é feito a correlação entre esses dados para verificar se há uma relação entre os dois. 
+
+#### 12.2 Métodos estatísticos planejados
+
+O teste estatístico planejado é o teste de correlação de Pearson
+
+#### 12.3 Tratamento de dados faltantes e outliers
+
+Dados que seam demaziadamente da norma são excluidos do calculo de correlação e são marcados para análise em especial, visando descobrir o motivo da alta variação.
+
+#### 12.4 Plano de análise para dados qualitativos
+
+N/A
+
